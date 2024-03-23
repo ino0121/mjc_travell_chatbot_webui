@@ -1,0 +1,14 @@
+accelerate
+konlpy
+transformers
+transformers[torch]
+torch
+pandas
+numpy
+tiktoken
+cohere
+langchain
+langchainhub
+langchain-openai
+tavily-python
+gradio
